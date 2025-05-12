@@ -28,6 +28,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=SynapseTotalOverload&theme=javascript"/>
 </p>
 
+
 ---
 
 ### 🧰 Core Stack: NNTP (Nextjs – NestJS – TypeScript – PostgreSQL)
