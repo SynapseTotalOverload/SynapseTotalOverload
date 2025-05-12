@@ -25,7 +25,7 @@
 </div>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SynapseTotalOverload&theme=radical" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SynapseTotalOverload&theme=javascript"/>
 </p>
 
 ---
